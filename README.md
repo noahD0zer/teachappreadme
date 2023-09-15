@@ -24,9 +24,9 @@ A web app for teachers and students to coordinate classes and assignments. It al
 
 # Technologies Used
 
--Django
--AWS
--Python
+- Django
+- AWS
+- Python
 
 # ERD
 

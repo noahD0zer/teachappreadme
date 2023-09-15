@@ -27,6 +27,9 @@ A web app for teachers and students to coordinate classes and assignments. It al
 - Django
 - AWS
 - Python
+- CSS
+- HTML5
+- Postgres
 
 # ERD
 
